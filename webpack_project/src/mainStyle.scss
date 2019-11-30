@@ -1,0 +1,22 @@
+img {
+  display: block;
+  width: 150px;
+}
+
+@media screen and (min-width: 90rem) {
+  body {
+    background-color: bisque;
+  }
+}
+
+@media screen and (max-width: 89.9rem) and (min-width: 41rem) {
+  body {
+    background-color: thistle;
+  }
+}
+
+@media screen and (max-width: 40.9rem) {
+  body {
+    background-color: silver;
+  }
+}
