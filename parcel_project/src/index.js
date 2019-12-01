@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { FirstComponent } from "./mainComponent";
+import { FirstComponent } from "./mainComponent.jsx";
 import "./mainStyle.scss";
 import logoImg from "./content/logo_1.png";
 import logoMoon from "./content/moon.jpg";

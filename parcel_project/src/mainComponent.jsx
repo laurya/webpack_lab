@@ -6,7 +6,7 @@ export const FirstComponent = () => {
 
   return (
     <div>
-      <span>My First Component with React</span>
+      <span>Hello :)</span>
     </div>
   );
 };
