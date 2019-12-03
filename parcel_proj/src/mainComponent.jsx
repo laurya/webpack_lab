@@ -10,5 +10,3 @@ export const FirstComponent = () => {
     </div>
   );
 };
-
-//export const FirstComponent: React.FunctionComponent = () => {
