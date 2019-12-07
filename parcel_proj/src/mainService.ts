@@ -13,7 +13,7 @@ const arrivingToTheMoon: ArriveMoon = {
 };
 
 function getDataArriveToTheMoon(): string {
-  const arriveToTheMoon = `First time to arrive Moon was in ${arrivingToTheMoon.year} the SpaceShip was ${arrivingToTheMoon.spaceship}. The team was: ${arrivingToTheMoon.team}, and the have to stay in moon during ${arrivingToTheMoon.timeToState}.`;
+  const arriveToTheMoon = `First time to arrive Moon was in : ${arrivingToTheMoon.year} the SpaceShip was ${arrivingToTheMoon.spaceship}. The team was: ${arrivingToTheMoon.team}, and the have to stay in moon during ${arrivingToTheMoon.timeToState}.`;
   return arriveToTheMoon;
 }
 
