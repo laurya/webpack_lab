@@ -20,5 +20,3 @@ function getDataArriveToTheMoon(): string {
 export function getDataMoon(): string {
   return getDataArriveToTheMoon();
 }
-
-// console.log(`We are in: ${process.env.NODE_ENV}`);
